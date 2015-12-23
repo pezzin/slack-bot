@@ -1,0 +1,1 @@
+# Slack Bot## README fileThis is the first example of Slack bot I am writing.
